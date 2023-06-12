@@ -1,2 +1,2 @@
 # TTPBootcamp
-Repository for Web Deb Bootcamp
+Repository for Web Dev Bootcamp
